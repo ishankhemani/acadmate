@@ -149,7 +149,7 @@ const subjectData = {
         
 
         { title:"structure A",notes:" https://drive.google.com/file/d/161mCgRkweM7rRRTp686PqzwTxEA-bRzl/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"},
-        {title:"M2 AND PCC",notes:"https://drive.google.com/file/d/17MAN5Okn57GQVxPYOurUe0YGQrnefYrk/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"}],
+        {title:"M2 AND PCC",notes:"https://drive.google.com/file/d/1QNMjv5YYGiKv1LYMPIX_mLm6iNovewPj/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"}],
 
         "Short Notes":[{title: "physics",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN",notes: "https://drive.google.com/file/d/1Px4wi_Q1dvwsIhWmPcztQKgipbfxM1lG/view?usp=drivesdk"},
         {title: "biology",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: "https://drive.google.com/file/d/1NDOpZwyuX_gvfYHVSvCJOyf3J3k9lgOg/view?usp=drivesdk"},
