@@ -1,0 +1,492 @@
+/* General Styles */
+body {
+  font-family:  'ubuntu-light';
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  text-align: center;
+}
+
+/* Header */
+header {
+  background: linear-gradient(90deg, #4a90e2, #50b3e0);
+  padding: 20px;
+  color: white;
+  font-size: 1.5em;
+  animation: fadeIn 1.5s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  animation: headerGlow 4s infinite alternate ease-in-out;
+
+
+
+
+}
+
+
+@keyframes headerGlow {
+  0% {
+    box-shadow: 0 4px 10px rgba(0, 170, 255, 0.5);
+    background: linear-gradient(90deg, #66ccff, #99e6ff);
+  }
+  100%{
+    box-shadow: 0 6px 20px rgba(0, 170, 255, 0.8);
+    background: linear-gradient(90deg, #99e6ff, #66ccff);
+  }
+}
+
+/* Light Reflection Effect */
+header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.2);
+  transform: skewX(-30deg);
+  animation: headerLightEffect 3s infinite linear;
+}
+
+@keyframes headerLightEffect {
+  0% { left: -100%; }
+  100% { left: 100%; }
+}
+
+h2 {
+  color: #007bff;
+}
+
+/* Typing Animation */
+.typing-animation {
+  font-size: 36px;
+  font-weight: bold;
+  color: #007bff; /* Stylish Blue */
+  text-transform: uppercase;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 4px solid #007bff; /* Cursor Effect */
+  display: inline-block;
+  width: 0;
+  animation: typing 3s steps(22, end) forwards, blink 0.6s infinite;
+}
+
+/* Typing Effect */
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+/* Blinking Cursor Effect */
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+
+/* Responsive Typing Animation */
+@media (max-width: 768px) {
+  .typing-animation {
+    font-size: 28px; /* Adjust for tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  .typing-animation {
+    font-size: 22px; /* Smaller text for mobile */
+  }
+}
+
+/* Subject Grid */
+.subject-container {
+  padding: 20px;
+}
+
+#subject-title {
+  display: inline-block;
+  font-size: 28px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0052cc; /* Deep Blue Text */
+  background: white; /* White Background */
+  padding: 14px 50px;
+  border: 3px solid #0052cc; /* Blue Border */
+   /* Unique asymmetric shape */
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.4s ease-in-out;
+  
+}
+
+/* Animated Diagonal Blue Overlay */
+#subject-title::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 1000vw
+  height: 100%;
+   /* Deep Blue */
+  transform: skewX(-20deg);
+  transition: all 0.4s ease-in-out;
+  z-index: 1;
+}
+#subject-title:hover {
+  background-color: #007bff; /* Bluish hover effect */
+  color: white; /* Text appears on hover */}
+/* Ensure Text is Always Visible */
+#subject-title span {
+  position: relative;
+  z-index: 2;
+  transition: color 0.4s ease-in-out;
+}
+
+/* Hover Effect - Blue Background Swipes In */
+#subject-title:hover::before {
+  left: 0;
+}
+
+#subject-title:hover span {
+  color: white; /* Ensuring text remains visible */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  #subject-title {
+    font-size: 24px;
+    padding: 12px 40px;
+    border-radius: 25px 8px 8px 25px;
+    width: 80%;
+  
+  }
+}
+
+@media (max-width: 480px) {
+  #subject-title {
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 20px 20px 20px 20px;
+    width: 80%;
+  }
+}
+
+.subject-card {
+  display: block;
+  background: #007bff;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  text-decoration: none;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.subject-card:hover {
+  background: #0056b3;
+}
+
+/* Notes Button */
+.notes-link {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 12px 18px;
+  background: linear-gradient(90deg, #007bff, #0056b3);
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+  border: 2px solid #001f3f;
+}
+
+.notes-link:hover {
+  background: #003c7f;
+}
+
+#wow {
+  display: inline-block;
+  padding: 14px 36px;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0052cc; /* Deep Blue Text */
+  background: white; /* White Background */
+  border: 3px solid #0052cc; /* Blue Border */
+  border-radius: 30px; /* Attractive Curved Shape */
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 5px 15px rgba(0, 82, 204, 0.3); /* Subtle Blue Glow */
+}
+
+/* Animated Blue Overlay */
+#wow::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* width: 100%; */
+  height: 100%;
+  background: #0052cc; /* Deep Blue */
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hover Effect - Full Blue Background with White Text */
+#wow:hover::before {
+  transform: scaleX(1);
+  color: black;
+}
+
+#wow:hover {
+  color: black;
+  box-shadow: 0 6px 20px rgba(0, 82, 204, 0.5); /* Stronger Glow */
+}
+
+/* Ensure Text Stays on Top of Animation */
+#wow span {
+  position: relative;
+  z-index: 2;
+}
+
+/* Responsive Button Adjustments */
+@media (max-width: 768px) {
+  #wow {
+    font-size: 16px;
+    padding: 12px 30px;
+    position: relative;
+
+    width: 50%;
+  }
+}
+
+@media (max-width: 480px) {
+  #wow {
+    font-size: 14px;
+    padding: 10px 26px;
+    /* width:100% ; */
+  }
+}
+/* Footer */
+footer {
+  background: #2ca1ef;
+  color: white;
+  padding: 10px;
+}
+
+/* Typing Animation */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 100%;
+  }
+}
+
+.typing-animation {
+  display: inline-block;
+  border-right: 3px solid white;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 3s steps(40) infinite alternate;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .subject-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .subject-card {
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .notes-link {
+    padding: 10px;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .subject-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+/* Intro Section */
+.intro {
+  padding: 20px;
+  background: linear-gradient(90deg, #4a90e2, #50b3e0);
+  color: white;
+  border-radius: 10px;
+  margin: 20px;
+  animation: fadeSlideIn 1s ease-in-out;
+}
+
+#youtube-video {
+  width: 40vw;
+  height: full;
+  border-radius: 20px 20px 20px 20px;
+
+}
+
+@media (min-width: 800px) {
+  .youtube-video {
+    width: 60vw;
+  }
+}
+
+
+.key-topics {
+  padding: 40px;
+  text-align: center;
+}
+
+.key-topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  
+}
+
+.topic-card {
+  background: linear-gradient(135deg, #4a90e2, #50b3e0);
+  color: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  font-family: "Poppins", Arial, sans-serif; /* Clean, professional font */
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 300px;
+  width: 230px;
+  word-wrap: break-word;
+  white-space: normal;
+  padding-bottom: 15px;
+}
+
+/* Ensure proper heading formatting */
+.topic-card h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-bottom: 8px;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.6);
+  padding-bottom: 5px;
+  width: 100%;
+  ; /* Keeps heading centered */
+}
+
+/* Ensures text inside is well managed */
+.topic-card p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.4;
+  max-width: 100%;
+  ;
+  margin: 0;
+  padding: 5px 10px;
+  overflow-y: auto; /* Allows scrolling if content overflows */
+  max-height: 200px; /* Ensures content fits inside the card */
+}
+
+/* Ensures text does not overflow */
+.topic-card span, .topic-card div {
+  max-width: 100%;
+  overflow-wrap: break-word;
+  text-overflow: ellipsis;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1024px) {
+  .topic-card {
+      width: 210px;
+      height: 280px;
+  }
+  .topic-card p {
+      font-size: 0.95rem;
+      max-height: 180px;
+  }
+}
+
+@media (max-width: 768px) {
+  .topic-card {
+      width: 100%;
+      max-width: 200px;
+      height: auto;
+      padding: 12px;
+  }
+  .topic-card p {
+      font-size: 0.9rem;
+      max-height: 160px;
+  }
+  }
+
+
+  .subject-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Responsive grid */
+    gap: 20px;  /* Space between buttons */
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.subject-card {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;  /* Ensures smooth button shape */
+    transition: 0.3s;
+    width: 100%;  /* Ensures equal width */
+    max-width: 200px;  /* Limits max size */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.subject-card:hover {
+    background-color: #0056b3;
+    transform: scale(1.05); /* Slight hover effect */
+}
+
+@media (max-width: 600px) {
+  .subject-grid {
+      grid-template-columns: repeat(2, 1fr); /* 2 columns on smaller screens */
+      gap: 10px;
+  }
+
+  .subject-card {
+      font-size: 14px; /* Adjust button size for smaller screens */
+      padding: 10px 15px;
+  }
+}
+
+
+.subject-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  padding: 20px;
+}
