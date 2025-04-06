@@ -37,7 +37,7 @@ const subjectData = {
     
     
     "PC": [
-        { title: "Indirect Direct Speech", video: "https://www.youtube.com/embed/3big4G0noGA?si=4hH4EVtUKmNcMWFG", notes: "https://drive.google.com/file/d/1BgVonq5xFie5v1Vj-kVV9nU6OU4tUmN8/view?usp=drivesdk", pdf: "assets/pc_notes1.pdf" },
+        { title: "full syllabus notes", video: "https://www.youtube.com/embed/3big4G0noGA?si=4hH4EVtUKmNcMWFG", notes: "https://drive.google.com/file/d/1BgVonq5xFie5v1Vj-kVV9nU6OU4tUmN8/view?usp=drivesdk", pdf: "assets/pc_notes1.pdf" },
         { title: "Tenses", video: "https://www.youtube.com/embed/pXZtRXpGNck?si=_0dAhGCJbIhyfPkj", notes: "https://drive.google.com/file/d/1BgVonq5xFie5v1Vj-kVV9nU6OU4tUmN8/view?usp=drivesdk", pdf: "assets/pc_notes2.pdf" },
         { title: "Active Passive voice", video: "https://www.youtube.com/embed/pXZtRXpGNck?si=_0dAhGCJbIhyfPkj", notes: "https://drive.google.com/file/d/1BgVonq5xFie5v1Vj-kVV9nU6OU4tUmN8/view?usp=drivesdk", pdf: "assets/pc_notes1.pdf" },
         { title: "PHENOTICS", video: "https://www.youtube.com/embed/SOm7y1pwROg?si=s7SKHd9ygIpPgg_f", notes: "https://drive.google.com/file/d/1BgVonq5xFie5v1Vj-kVV9nU6OU4tUmN8/view?usp=drivesdk", pdf: "assets/pc_notes2.pdf" },
@@ -55,7 +55,7 @@ const subjectData = {
     ],
     
     "Physics": [
-        { title: "unit 1 Photoelectric effect", video: "https://www.youtube.com/embed/ObQ7Di_xuIs?si=5dVY4wyRs_UCCrQ9", notes: "https://drive.google.com/file/d/1Dzd9oJPswSwoVKguMN6EritMzN8bxOj6/view?usp=drivesdk", pdf: "assets/physics_notes1.pdf" },
+        { title: "full syylabus notes", video: "https://www.youtube.com/embed/ObQ7Di_xuIs?si=5dVY4wyRs_UCCrQ9", notes: "https://drive.google.com/file/d/1Dzd9oJPswSwoVKguMN6EritMzN8bxOj6/view?usp=drivesdk", pdf: "assets/physics_notes1.pdf" },
         { title: "Waveoptics", video: "https://www.youtube.com/embed/FfZKBop3G9w?si=8SRgA9s8UPpr5HSj", notes: "https://drive.google.com/file/d/1E-_QPfoNqdqGCYFLEqKeJHZ7IdHsrb8v/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
         { title: "Quantam Mechanics", video: "https://www.youtube.com/embed/xm8Vl60I-qE?si=ol36mew4m0KOaovI", notes: "https://drive.google.com/file/d/1E3DfD69AYlV944rBSFhcNqsDjbHxONot/view?usp=drivesdk", pdf: "assets/physics_notes1.pdf" },
         { title: "De Broglie Matter Waves,", video: "https://www.youtube.com/embed/ZPZOkpHhpsY?si=5K0i-gQx-ABO2BMY" , notes: "https://drive.google.com/file/d/1E3Z7vAn-wJy9bsdCQ2R9Ry9F8zWLnTDV/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
@@ -116,7 +116,7 @@ const subjectData = {
         { title: "basics to operators ", video: "https://www.youtube.com/embed/irqbmMNs2Bo?si=Tk0NQ5pvWjl3pANU", notes: "https://drive.google.com/file/d/15130B66x91qfDxxxbrsBrRnZDd8D1Eq1/view?usp=drivesdk", pdf: " " },
         { title: "operators to loop", video: "https://www.youtube.com/embed/wYvrBXUfFfw?si=Bv_nxYOZxO4hO5LU", notes: "https://drive.google.com/file/d/152qXAg-3IMxnky6zqu3CZjMsPPQE2h9u/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
         { title: "loops to call by value", video: "https://www.youtube.com/embed/6R0jNW6j2NA?si=Dcf0yeJs1t4gQb_Z", notes: "https://drive.google.com/file/d/156b4leWkYWIPfi2kl4ia3cG5pb91iUjA/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
-        { title: "call by ref to structure", video: "https://www.youtube.com/embed/J464pe6ZTrE?si=2znU4KlwP7qS8KP3", notes: "https://drive.google.com/file/d/156zLP7t2dfC_FuhO3O3-nTzUSVeq83M4/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
+        { title: "call by ref to structure(notes completed)", video: "https://www.youtube.com/embed/J464pe6ZTrE?si=2znU4KlwP7qS8KP3", notes: "https://drive.google.com/file/d/156zLP7t2dfC_FuhO3O3-nTzUSVeq83M4/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
                 { title: "fibonacci series ", video: "https://www.youtube.com/embed/HjmwAeTaZv0?si=M87ju0gPl7BbDnoV", },
                         { title: "armstrong ", video: "https://www.youtube.com/embed/v5AG8L8XI5c?si=itbflRROme9QytX9"  },
                                 { title: "call by value,reference", video: "https://www.youtube.com/embed/HEiPxjVR8CU?si=jB41DJUXAC5f84FP" },
