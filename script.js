@@ -55,7 +55,7 @@ const subjectData = {
     ],
     
     "Physics": [
-        { title: "full syylabus notes", video: "https://www.youtube.com/embed/ObQ7Di_xuIs?si=5dVY4wyRs_UCCrQ9", notes: "https://drive.google.com/file/d/1Dzd9oJPswSwoVKguMN6EritMzN8bxOj6/view?usp=drivesdk", pdf: "assets/physics_notes1.pdf" },
+        { title: "full syllabus notes", video: "https://www.youtube.com/embed/ObQ7Di_xuIs?si=5dVY4wyRs_UCCrQ9", notes: "https://drive.google.com/file/d/1Dzd9oJPswSwoVKguMN6EritMzN8bxOj6/view?usp=drivesdk", pdf: "assets/physics_notes1.pdf" },
         { title: "Waveoptics", video: "https://www.youtube.com/embed/FfZKBop3G9w?si=8SRgA9s8UPpr5HSj", notes: "https://drive.google.com/file/d/1E-_QPfoNqdqGCYFLEqKeJHZ7IdHsrb8v/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
         { title: "Quantam Mechanics", video: "https://www.youtube.com/embed/xm8Vl60I-qE?si=ol36mew4m0KOaovI", notes: "https://drive.google.com/file/d/1E3DfD69AYlV944rBSFhcNqsDjbHxONot/view?usp=drivesdk", pdf: "assets/physics_notes1.pdf" },
         { title: "De Broglie Matter Waves,", video: "https://www.youtube.com/embed/ZPZOkpHhpsY?si=5K0i-gQx-ABO2BMY" , notes: "https://drive.google.com/file/d/1E3Z7vAn-wJy9bsdCQ2R9Ry9F8zWLnTDV/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
@@ -74,8 +74,8 @@ const subjectData = {
         
     ],
     "Chemistry": [
-        { title: "Unit 1", video: "https://www.youtube.com/embed/I_ALnsSg7ak?si=qiFz6InG6HxKfYar", notes: "https://drive.google.com/file/d/1Gq0OcMGM0IasCiR4nP14VmMW0zWVKZZC/view?usp=drivesdk", pdf: "" },
-        { title: "Polymer", video: "https://www.youtube.com/embed/-QJ_8k8AbWY?si=1CHkeJKJnn7IwpAr", notes: "https://drive.google.com/file/d/1GqwxchZwHUc5re5R6CItJdUQ2uRx0eZp/view?usp=drivesdk", pdf: "" },
+        { title: "Unit( 1-6 complete handwritten)", video: "https://www.youtube.com/embed/I_ALnsSg7ak?si=qiFz6InG6HxKfYar", notes: "https://drive.google.com/file/d/1TjvUwr-UJQ3Y1RZ4yJouep8DF4h9QleC/view?usp=drivesdk", pdf: "" },
+        { title: "Polymer(textual notes)", video: "https://www.youtube.com/embed/-QJ_8k8AbWY?si=1CHkeJKJnn7IwpAr", notes: "https://drive.google.com/file/d/1GqwxchZwHUc5re5R6CItJdUQ2uRx0eZp/view?usp=drivesdk", pdf: "" },
         { title: "Fuel", video: "https://www.youtube.com/embed/tio1eCnkIAA?si=d8yQrPjkJDEZYbmw ", notes: "https://drive.google.com/file/d/1BeZfFjodnd7ZnkOybOBULLYi8oQkstyQ/view?usp=drivesdk", pdf: "" },
         {title: "Lubricants", video: "https://www.youtube.com/embed/GacwwmIl_8E?si=7THqIXsmc0kXwZWS", notes: "https://drive.google.com/file/d/15TWNrT-NKmEdEw7qqlFckXQhQKQpa2Ux/view?usp=drivesdk", pdf: "" },
         { title: "Corrosion", video: "https://www.youtube.com/embed/rg3DM9XnXEU?si=l7IKpOdSS5fXOqJQ", notes: "https://drive.google.com/file/d/1H1quZ8_XTorPvmTe2BSks5mOt3IoLvMg/view?usp=drivesdk", pdf: "" },
