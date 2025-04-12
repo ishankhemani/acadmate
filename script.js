@@ -166,14 +166,14 @@ const subjectData = {
 
 
 
-// import { auth } from "./auth/firebase.js";
-// import { onAuthStateChanged } from "https://www.gstatic.com/firebasejs/9.17.2/firebase-auth.js";
+import { auth } from "./auth/firebase.js";
+import { onAuthStateChanged } from "https://www.gstatic.com/firebasejs/9.17.2/firebase-auth.js";
 
-// onAuthStateChanged(auth, (user) => {
-//     if (!user) {
-//         window.location.href = "auth/login.html";
-//     }
-// });
+onAuthStateChanged(auth, (user) => {
+    if (!user) {
+        window.location.href = "auth/login.html";
+    }
+});
 
 
 const urlParams = new URLSearchParams(window.location.search);
