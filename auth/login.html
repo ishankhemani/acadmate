@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AcadMate - Login</title>
+  <link rel="stylesheet" href="login.css">
+</head>
+
+<body>
+  <div class="page-container">
+    <header>
+      <h1 class="main-title">AcadMate</h1>
+      <p class="tagline">We provide handpicked video lectures, notes, and PDFs for every student to learn faster and
+        better.</p>
+    </header>
+    <div class="login-container">
+      <div class="login-card">
+        <h2 class="brand">Login to AcadMate</h2>
+        <button id="googleSignInBtn" class="google-btn">Sign in with Google</button>
+      </div>
+      <div id="userDiv" class="user-info">
+        <p>Welcome, <span id="userEmail"></span>!</p>
+        <button id="googleSignOutBtn" class="signout-btn">Sign Out</button>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="./login.js"></script>
+</body>
+
+</html>
