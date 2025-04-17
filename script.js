@@ -51,7 +51,7 @@ const subjectData = {
         { title: "plane", video: "https://www.youtube.com/embed/29Ha9yJfgvw?si=N32nHkAvsk84qqN6", notes: "https://drive.google.com/drive/folders/1EaArKHOn0YhMr7404f1E0Ilpv5It3O6J", pdf: "assets/egd_notes2.pdf" },
         { title: "orthogonal projection", video: "https://www.youtube.com/embed/No2BAd569CA?si=2trVR2G0RtDUCYbU", notes: "https://drive.google.com/file/d/1VOdOvltF09nAX0DVvHAWptp0PdtBZ7BW/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
         { title: "Solids", video: "https://www.youtube.com/embed/v1GcwUSpxLg?si=ieL0sqcQ1FOPTmJl" , notes: "https://drive.google.com/file/d/1VashHlaU1XUhDkKp4aZsSr5mkxmipvAM/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
-        {title:"Isometric Projection",video:"https://www.youtube.com/embed/8j7l1OWhMlE?si=uXlPws1hexi3Picj",notes:"https://drive.google.com/drive/folders/1EaArKHOn0YhMr7404f1E0Ilpv5It3O6J"}
+        {title:"Isometric Projection",video:"https://www.youtube.com/embed/8j7l1OWhMlE?si=uXlPws1hexi3Picj",notes:"https://drive.google.com/file/d/1a553M8jOgu__j8ziKnytmMcDX-8WGdYz/view?usp=drivesdk"}
     ],
     
     "Physics": [
