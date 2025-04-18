@@ -9,8 +9,9 @@ const subjectData = {
         { title: "Partial Differentiation", video:" https://www.youtube.com/embed/_T7rcF1mrIw?si=Gm_9fPmQUv2oAz0h" , notes: "https://drive.google.com/file/d/1Bu1KsJBqFErqmejL7UkJVAa90V5Kp5Lv/view?usp=drivesdk", pdf: "assets/m2_notes1.pdf" },
         { title: "double integration", video: "https://www.youtube.com/embed/swF628VHQDo?si=u5Lpb1qYFNvKgx3X" , notes:" https://drive.google.com/file/d/1BG_thgL-gn80z8JxZmCOEo8Nphnk5Sfn/view?usp=drivesdk", pdf: "assets/m2_notes2.pdf" },
         { title: "divergence,curl", video:  "https://www.youtube.com/embed/swF628VHQDo?si=u5Lpb1qYFNvKgx3X" , notes: "https://drive.google.com/file/d/1BG_thgL-gn80z8JxZmCOEo8Nphnk5Sfn/view?usp=drivesdk", pdf: "assets/m2_notes2.pdf" },
-        { title : "line integral,",video: "https://www.youtube.com/embed/IE5tAyIQviE?si=w74iQu_-bl-3OsQV ",notes:"https://drive.google.com/file/d/15xCW7jY9vgCiJrnKHNCZOZwUPVrVg-oP/view?usp=drivesdk"},
-        {title: "surface integral",video: "https://www.youtube.com/embed/X2Z0tJG0rjU?si=WskJhulcj3lP6Ksj ",notes:"https://drive.google.com/file/d/15xCW7jY9vgCiJrnKHNCZOZwUPVrVg-oP/view?usp=drivesdk"}
+        { title : "line integral(complete syllabus notes)",video: "https://www.youtube.com/embed/IE5tAyIQviE?si=w74iQu_-bl-3OsQV ",notes:"https://drive.google.com/file/d/15xCW7jY9vgCiJrnKHNCZOZwUPVrVg-oP/view?usp=drivesdk"},
+        {title: "surface integral(complete syllabus notes)",video: "https://www.youtube.com/embed/X2Z0tJG0rjU?si=WskJhulcj3lP6Ksj ",notes:"https://drive.google.com/file/d/15xCW7jY9vgCiJrnKHNCZOZwUPVrVg-oP/view?usp=drivesdk"},
+        {title: "fourier series",video: "https://www.youtube.com/embed/VTSOBArFr4k?si=LUPvudZKjbEbOaIC",notes: "https://drive.google.com/file/d/1bISMFPnKIG_cd8YZee6KffAC5vPkR5ba/view?usp=drivesdk" }
     
     ],
     "PCC": [
@@ -51,7 +52,8 @@ const subjectData = {
         { title: "plane", video: "https://www.youtube.com/embed/29Ha9yJfgvw?si=N32nHkAvsk84qqN6", notes: "https://drive.google.com/drive/folders/1EaArKHOn0YhMr7404f1E0Ilpv5It3O6J", pdf: "assets/egd_notes2.pdf" },
         { title: "orthogonal projection", video: "https://www.youtube.com/embed/No2BAd569CA?si=2trVR2G0RtDUCYbU", notes: "https://drive.google.com/file/d/1VOdOvltF09nAX0DVvHAWptp0PdtBZ7BW/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
         { title: "Solids", video: "https://www.youtube.com/embed/v1GcwUSpxLg?si=ieL0sqcQ1FOPTmJl" , notes: "https://drive.google.com/file/d/1VashHlaU1XUhDkKp4aZsSr5mkxmipvAM/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
-        {title:"Isometric Projection",video:"https://www.youtube.com/embed/8j7l1OWhMlE?si=uXlPws1hexi3Picj",notes:"https://drive.google.com/file/d/1a553M8jOgu__j8ziKnytmMcDX-8WGdYz/view?usp=drivesdk"}
+        {title:"Isometric Projection",video:"https://www.youtube.com/embed/8j7l1OWhMlE?si=uXlPws1hexi3Picj",notes:"https://drive.google.com/file/d/1a553M8jOgu__j8ziKnytmMcDX-8WGdYz/view?usp=drivesdk"},
+        {title:"autocad",video:"https://www.youtube.com/embed/ZcGlKaGgiXo?si=Mrzac0kEsb0LFo7e",notes:"https://drive.google.com/file/d/1bNPDaBA8OOhlF0aE4ORRceor-cIEmX-X/view?usp=drivesdk" }
     ],
     
     "Physics": [
@@ -134,7 +136,7 @@ const subjectData = {
         { title: "UNIT 1 INTRODUCTION", video: "https://www.youtube.com/embed/dIE9X5gwPJo?si=UFnIwLp-6MOSseKs", notes: "https://drive.google.com/file/d/1E4UDSnRwDofR5mKIsbAEFcJt6gmiw7Jy/view?usp=drivesdk", pdf: " " },
         { title: "electromagnetism", video: "https://www.youtube.com/embed/svd52GIjvDU?si=V0pDxs0Tx0tiW8OD", notes: "https://drive.google.com/file/d/1EHqwRBVWspse4PdT-4nn2T76qkmVI9QY/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
         { title: "ac", video: "https://www.youtube.com/embed/videoseries?si=EVEkARPu-19Xg0pY&amp;list=PLT3bOBUU3L9iC-ZcBJbQOOdt5uBsEkZJW", notes: "https://drive.google.com/file/d/1EMTEkzuz6nhELAXLK7r3QczGqvyblYKG/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
-        { title: "ohm's law,limitations", video: "https://www.youtube.com/embed/1JyD-KTj5Z0?si=dpldGqtYWVD_28R5" , notes: "https://drive.google.com/file/d/1E7deLnmqf6xu_cDnLS7C8hurgP93llEQ/view?usp=drivesdk", pdf: " " },
+        { title: "ohm's law,limitations(complete unit notes)", video: "https://www.youtube.com/embed/1JyD-KTj5Z0?si=dpldGqtYWVD_28R5" , notes: "https://drive.google.com/file/d/1E7deLnmqf6xu_cDnLS7C8hurgP93llEQ/view?usp=drivesdk", pdf: " " },
         { title: "kvl,kcl", video:"https://www.youtube.com/embed/-BXwPX29QYY?si=vatScG-Ep-nQmlLb", notes: "https://drive.google.com/file/d/1EJTopf6O3QR-cOqe-vFjM6KmdpxXCUAf/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
         {title: "flemings rule",video:"https://www.youtube.com/embed/lGEUIit-TnU?si=XcyPKVbCslQN31BB",notes:"https://drive.google.com/file/d/1EHqwRBVWspse4PdT-4nn2T76qkmVI9QY/view?usp=drivesdk" },
         {title: "mutual induction",video:"https://www.youtube.com/embed/FAAFmeQpYO8?si=AZMEtDn-opMZEO35",notes:" https://drive.google.com/file/d/1EHqwRBVWspse4PdT-4nn2T76qkmVI9QY/view?usp=drivesdk" },
