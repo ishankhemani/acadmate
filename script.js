@@ -6,11 +6,11 @@ const subjectData = {
         { title: "Differential Equations", video: "https://www.youtube.com/embed/TH4Kd9mfIgI?si=zsBSICOdY-e1nXHp", notes: "https://drive.google.com/file/d/1EQZnV9QaXni1CUI0jcgzznAJCgAO_iTd/view?usp=drivesdk", pdf: "assets/m1_notes4.pdf" }
     ],
     "M2": [
-        { title: "Partial Differentiation", video:" https://www.youtube.com/embed/_T7rcF1mrIw?si=Gm_9fPmQUv2oAz0h" , notes: "https://drive.google.com/file/d/1Bu1KsJBqFErqmejL7UkJVAa90V5Kp5Lv/view?usp=drivesdk", pdf: "assets/m2_notes1.pdf" },
+        { title: "complete syllabus notes", video:" https://www.youtube.com/embed/_T7rcF1mrIw?si=Gm_9fPmQUv2oAz0h" , notes: "https://drive.google.com/file/d/1DMRlWOZUiYjNPA-Ncfkhs6jfToRnDyh3/view?usp=drivesdk", pdf: "assets/m2_notes1.pdf" },
         { title: "double integration", video: "https://www.youtube.com/embed/swF628VHQDo?si=u5Lpb1qYFNvKgx3X" , notes:" https://drive.google.com/file/d/1BG_thgL-gn80z8JxZmCOEo8Nphnk5Sfn/view?usp=drivesdk", pdf: "assets/m2_notes2.pdf" },
         { title: "divergence,curl", video:  "https://www.youtube.com/embed/swF628VHQDo?si=u5Lpb1qYFNvKgx3X" , notes: "https://drive.google.com/file/d/1BG_thgL-gn80z8JxZmCOEo8Nphnk5Sfn/view?usp=drivesdk", pdf: "assets/m2_notes2.pdf" },
-        { title : "line integral(complete syllabus notes)",video: "https://www.youtube.com/embed/IE5tAyIQviE?si=w74iQu_-bl-3OsQV ",notes:"https://drive.google.com/file/d/15xCW7jY9vgCiJrnKHNCZOZwUPVrVg-oP/view?usp=drivesdk"},
-        {title: "surface integral(complete syllabus notes)",video: "https://www.youtube.com/embed/X2Z0tJG0rjU?si=WskJhulcj3lP6Ksj ",notes:"https://drive.google.com/file/d/15xCW7jY9vgCiJrnKHNCZOZwUPVrVg-oP/view?usp=drivesdk"},
+        { title : "complete syllabus handwritten notes",video: "https://www.youtube.com/embed/IE5tAyIQviE?si=w74iQu_-bl-3OsQV ",notes:"https://drive.google.com/file/d/15xCW7jY9vgCiJrnKHNCZOZwUPVrVg-oP/view?usp=drivesdk"},
+        {title: "surface integral",video: "https://www.youtube.com/embed/X2Z0tJG0rjU?si=WskJhulcj3lP6Ksj ",notes:"https://drive.google.com/file/d/15xCW7jY9vgCiJrnKHNCZOZwUPVrVg-oP/view?usp=drivesdk"},
         {title: "fourier series",video: "https://www.youtube.com/embed/VTSOBArFr4k?si=LUPvudZKjbEbOaIC",notes: "https://drive.google.com/file/d/1bISMFPnKIG_cd8YZee6KffAC5vPkR5ba/view?usp=drivesdk" }
     
     ],
