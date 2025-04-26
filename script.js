@@ -11,7 +11,11 @@ const subjectData = {
         { title: "divergence,curl", video:  "https://www.youtube.com/embed/swF628VHQDo?si=u5Lpb1qYFNvKgx3X" , notes: "https://drive.google.com/file/d/1BG_thgL-gn80z8JxZmCOEo8Nphnk5Sfn/view?usp=drivesdk", pdf: "assets/m2_notes2.pdf" },
         { title : "complete syllabus handwritten notes",video: "https://www.youtube.com/embed/IE5tAyIQviE?si=w74iQu_-bl-3OsQV ",notes:"https://drive.google.com/file/d/15xCW7jY9vgCiJrnKHNCZOZwUPVrVg-oP/view?usp=drivesdk"},
         {title: "surface integral",video: "https://www.youtube.com/embed/X2Z0tJG0rjU?si=WskJhulcj3lP6Ksj ",notes:"https://drive.google.com/file/d/15xCW7jY9vgCiJrnKHNCZOZwUPVrVg-oP/view?usp=drivesdk"},
-        {title: "fourier series",video: "https://www.youtube.com/embed/VTSOBArFr4k?si=LUPvudZKjbEbOaIC",notes: "https://drive.google.com/file/d/1bISMFPnKIG_cd8YZee6KffAC5vPkR5ba/view?usp=drivesdk" }
+        {title: "fourier series",video: "https://www.youtube.com/embed/VTSOBArFr4k?si=LUPvudZKjbEbOaIC",notes: "https://drive.google.com/file/d/1bISMFPnKIG_cd8YZee6KffAC5vPkR5ba/view?usp=drivesdk" },
+        {title: "laplace transform method",video: "https://www.youtube.com/embed/PG_-ax_HmS0?si=8-h-sMeoVSE98R3x" },
+        {title: "triple integration",video: "https://www.youtube.com/embed/re6hf7m2hP4?si=mfz_rC6ycETPV10O" },
+        {title: "lagrange's theorom",video: "https://www.youtube.com/embed/etLoYBJMCX8?si=zv_NEwkRhlOq4nK7" },
+        {title: "maxima minima,saddle points",video: "https://www.youtube.com/embed/In3oZPIymm8?si=SwLYGXGqHcBuLb_f" }
     
     ],
     "PCC": [
