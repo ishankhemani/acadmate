@@ -61,10 +61,11 @@ const subjectData = {
     ],
     
     "Physics": [
-        { title: "full syllabus notes", video: "https://www.youtube.com/embed/ObQ7Di_xuIs?si=5dVY4wyRs_UCCrQ9", notes: "https://drive.google.com/file/d/1Dzd9oJPswSwoVKguMN6EritMzN8bxOj6/view?usp=drivesdk", pdf: "assets/physics_notes1.pdf" },
+        { title: "unit(1-5) handwritten notes", video: "https://www.youtube.com/embed/ObQ7Di_xuIs?si=5dVY4wyRs_UCCrQ9", notes: "https://drive.google.com/file/d/1EVWnLAJsJn0X1m09q3R-y1g9iEYnq67l/view?usp=drivesdk", pdf: "assets/physics_notes1.pdf" },
         { title: "Waveoptics", video: "https://www.youtube.com/embed/FfZKBop3G9w?si=8SRgA9s8UPpr5HSj", notes: "https://drive.google.com/file/d/1E-_QPfoNqdqGCYFLEqKeJHZ7IdHsrb8v/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
         { title: "Quantam Mechanics", video: "https://www.youtube.com/embed/xm8Vl60I-qE?si=ol36mew4m0KOaovI", notes: "https://drive.google.com/file/d/1E3DfD69AYlV944rBSFhcNqsDjbHxONot/view?usp=drivesdk", pdf: "assets/physics_notes1.pdf" },
         { title: "De Broglie Matter Waves,", video: "https://www.youtube.com/embed/ZPZOkpHhpsY?si=5K0i-gQx-ABO2BMY" , notes: "https://drive.google.com/file/d/1E3Z7vAn-wJy9bsdCQ2R9Ry9F8zWLnTDV/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
+        {title: "semiconductors",video: "https://www.youtube.com/embed/baDs4fOc_QU?si=SgQCJv9zX9Yi2-_K" ,notes: "https://drive.google.com/file/d/1jkQeFIbM9HPH9slVkMAyb_R9G4FYw_JM/view?usp=drivesdk" },
 {title: "De Broglie Hypothesis", video: "https://www.youtube.com/embed/MEWUUm3SAu4?si=An2nU3IGNBZx4dl-"  , notes: "https://drive.google.com/file/d/1E3Z7vAn-wJy9bsdCQ2R9Ry9F8zWLnTDV/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
 {title: "Davisson germer experiment", video: "https://www.youtube.com/embed/hFzWmXTeH70?si=NlBXzM5HiUNoj44N" 
       , notes: " https://drive.google.com/file/d/1Dzd9oJPswSwoVKguMN6EritMzN8bxOj6/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
