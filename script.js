@@ -155,6 +155,7 @@ const subjectData = {
         {title:"open and short circuit tests" ,video:"https://www.youtube.com/embed/9hBmgdGjt1Y?si=H2ZjMMu0faFl_CfQ",notes: "https://drive.google.com/file/d/1PV-Bd0Iot5zvume5JfXcxDtAweogCVTm/view?usp=drivesdk"},
         {title:"1 phase energy meter",video:"https://www.youtube.com/embed/22Up_Pyvg_c?si=2_4qymPDOIxQeKLP",notes:"https://drive.google.com/file/d/1PVqhEbpEObvSzfW6AKzwV_xQ8i-2tVvE/view?usp=drivesdk"},
     ],     "Previous Papers":[ { title: "structure B",  notes: "https://drive.google.com/file/d/166MmkBuinyc4VPq2FvsnCbYsisIqjLn9/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"},
+                              {title: " phy ,bee,pps (2025 pyqs)",notes: "https://drive.google.com/file/d/1lYS4suwTlyZtNTBZ68bs0ltLabtUTJT1/view?usp=drivesdk",video: "https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j" },
         
 
         { title:"structure A",notes:" https://drive.google.com/file/d/161mCgRkweM7rRRTp686PqzwTxEA-bRzl/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"},
