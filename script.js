@@ -105,6 +105,7 @@ const subjectData = {
         { title: "biomolecules", video: "https://www.youtube.com/embed/RpSc5bHLURc?si=8wrVYgEQEm-BBee_", notes: "https://drive.google.com/file/d/1HdCKoeQHP91Vc1AY7Sd8o9rSN7DY7g1W/view?usp=drivesdk"},
         { title: "enzymes and their application,mechanisms ", video: "https://www.youtube.com/embed/78PMtU9cWsU?si=vzFshwSiWIdF5-Ng ", notes: "https://drive.google.com/file/d/1G677yYbS7Q6nPU3M2IiQpIFTGp_cuKhJ/view?usp=drivesdk", pdf: "assets/info_notes3.pdf" },
       {title:"mechanisms of enzyme",video:"https://www.youtube.com/embed/Wrrf4akRO6M?si=yfa08RHv0Ci7zKsU",notes: "https://drive.google.com/file/d/1G677yYbS7Q6nPU3M2IiQpIFTGp_cuKhJ/view?usp=drivesdk" },
+        {title: "cloning",video: "https://www.youtube.com/embed/ByEr1P-8mro?si=9JKOpPTCsKfbhcek",notes: "https://drive.google.com/file/d/1Er3EjNconpE3grXr4TN-1Hek4XsQo5mS/view?usp=drivesdk" },
 
 
         { title: "respiratory system ", video: "https://www.youtube.com/embed/GDiId1-PfTY?si=YcuNi_keyTIjT8J0", notes: "https://drive.google.com/file/d/1FN4FmOyzpMDleYmSeX0fXdueX9ZY-4R9/view?usp=drivesdk", pdf: "assets/info_notes4.pdf" },
@@ -142,6 +143,7 @@ const subjectData = {
         { title: "electromagnetism", video: "https://www.youtube.com/embed/svd52GIjvDU?si=V0pDxs0Tx0tiW8OD", notes: "https://drive.google.com/file/d/1EHqwRBVWspse4PdT-4nn2T76qkmVI9QY/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
         { title: "ac", video: "https://www.youtube.com/embed/videoseries?si=EVEkARPu-19Xg0pY&amp;list=PLT3bOBUU3L9iC-ZcBJbQOOdt5uBsEkZJW", notes: "https://drive.google.com/file/d/1EMTEkzuz6nhELAXLK7r3QczGqvyblYKG/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
         { title: "ohm's law,limitations(complete unit notes)", video: "https://www.youtube.com/embed/1JyD-KTj5Z0?si=dpldGqtYWVD_28R5" , notes: "https://drive.google.com/file/d/1E7deLnmqf6xu_cDnLS7C8hurgP93llEQ/view?usp=drivesdk", pdf: " " },
+        {title: "transformes",video: "https://www.youtube.com/embed/1jGh51qjOTI?si=8Ghz9oq-0iSWNYnJ", notes: "https://drive.google.com/file/d/1EprBvU9PKfdjycjIWygrIi5Zvo82vagn/view?usp=drivesdk" },
         { title: "kvl,kcl", video:"https://www.youtube.com/embed/-BXwPX29QYY?si=vatScG-Ep-nQmlLb", notes: "https://drive.google.com/file/d/1EJTopf6O3QR-cOqe-vFjM6KmdpxXCUAf/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
         {title: "flemings rule",video:"https://www.youtube.com/embed/lGEUIit-TnU?si=XcyPKVbCslQN31BB",notes:"https://drive.google.com/file/d/1EHqwRBVWspse4PdT-4nn2T76qkmVI9QY/view?usp=drivesdk" },
         {title: "mutual induction",video:"https://www.youtube.com/embed/FAAFmeQpYO8?si=AZMEtDn-opMZEO35",notes:" https://drive.google.com/file/d/1EHqwRBVWspse4PdT-4nn2T76qkmVI9QY/view?usp=drivesdk" },
