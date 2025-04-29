@@ -42,7 +42,7 @@ const subjectData = {
     
     
     "PC": [
-        { title: "full syllabus notes pdf", video: "https://www.youtube.com/embed/3big4G0noGA?si=4hH4EVtUKmNcMWFG", notes: "https://drive.google.com/file/d/1j8kxqs1DWix7VTR8YisSIp-NxrjSPcgf/view?usp=drivesdk", pdf: "assets/pc_notes1.pdf" },
+        { title: "full syllabus notes pdf", video: "https://www.youtube.com/embed/3big4G0noGA?si=4hH4EVtUKmNcMWFG", notes: "https://drive.google.com/file/d/1EiQOfdplmMfonto2E3MAxvwTLGLrnMmX/view?usp=drivesdk", pdf: "assets/pc_notes1.pdf" },
         { title: "Tenses", video: "https://www.youtube.com/embed/pXZtRXpGNck?si=_0dAhGCJbIhyfPkj", notes: "https://drive.google.com/file/d/1BgVonq5xFie5v1Vj-kVV9nU6OU4tUmN8/view?usp=drivesdk", pdf: "assets/pc_notes2.pdf" },
         { title: "Active Passive voice", video: "https://www.youtube.com/embed/pXZtRXpGNck?si=_0dAhGCJbIhyfPkj", notes: "https://drive.google.com/file/d/1BgVonq5xFie5v1Vj-kVV9nU6OU4tUmN8/view?usp=drivesdk", pdf: "assets/pc_notes1.pdf" },
         { title: "PHENOTICS", video: "https://www.youtube.com/embed/SOm7y1pwROg?si=s7SKHd9ygIpPgg_f", notes: "https://drive.google.com/file/d/1BgVonq5xFie5v1Vj-kVV9nU6OU4tUmN8/view?usp=drivesdk", pdf: "assets/pc_notes2.pdf" },
