@@ -121,11 +121,11 @@ const subjectData = {
     ],
     "PPS": [
 
-        { title: "basics to operators ", video: "https://www.youtube.com/embed/irqbmMNs2Bo?si=Tk0NQ5pvWjl3pANU", notes: "https://drive.google.com/file/d/15130B66x91qfDxxxbrsBrRnZDd8D1Eq1/view?usp=drivesdk", pdf: " " },
+        { title: "(complete chapter notes) ", video: "https://www.youtube.com/embed/irqbmMNs2Bo?si=Tk0NQ5pvWjl3pANU", notes: "https://drive.google.com/file/d/1FJU01YhtJlGHcfU-QF0_Yp9Z3q1wfHgA/view?usp=drivesdk", pdf: " " },
         { title: "operators to loop", video: "https://www.youtube.com/embed/wYvrBXUfFfw?si=Bv_nxYOZxO4hO5LU", notes: "https://drive.google.com/file/d/152qXAg-3IMxnky6zqu3CZjMsPPQE2h9u/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
         { title: "loops to call by value", video: "https://www.youtube.com/embed/6R0jNW6j2NA?si=Dcf0yeJs1t4gQb_Z", notes: "https://drive.google.com/file/d/156b4leWkYWIPfi2kl4ia3cG5pb91iUjA/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
         { title: "call by ref to structure(notes completed)", video: "https://www.youtube.com/embed/J464pe6ZTrE?si=2znU4KlwP7qS8KP3", notes: "https://drive.google.com/file/d/156zLP7t2dfC_FuhO3O3-nTzUSVeq83M4/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
-                { title: "fibonacci series ", video: "https://www.youtube.com/embed/HjmwAeTaZv0?si=M87ju0gPl7BbDnoV", },
+                { title: "fibonacci series(only videos) ", video: "https://www.youtube.com/embed/HjmwAeTaZv0?si=M87ju0gPl7BbDnoV", },
                         { title: "armstrong ", video: "https://www.youtube.com/embed/v5AG8L8XI5c?si=itbflRROme9QytX9"  },
                                 { title: "call by value,reference", video: "https://www.youtube.com/embed/HEiPxjVR8CU?si=jB41DJUXAC5f84FP" },
                                         { title: "linear search,binary search", video: "https://www.youtube.com/embed/C46QfTjVCNU?si=ET2rzDrgKPflC5nv" , },
@@ -155,7 +155,7 @@ const subjectData = {
         {title:"open and short circuit tests" ,video:"https://www.youtube.com/embed/9hBmgdGjt1Y?si=H2ZjMMu0faFl_CfQ",notes: "https://drive.google.com/file/d/1PV-Bd0Iot5zvume5JfXcxDtAweogCVTm/view?usp=drivesdk"},
         {title:"1 phase energy meter",video:"https://www.youtube.com/embed/22Up_Pyvg_c?si=2_4qymPDOIxQeKLP",notes:"https://drive.google.com/file/d/1PVqhEbpEObvSzfW6AKzwV_xQ8i-2tVvE/view?usp=drivesdk"},
     ],     "Previous Papers":[ { title: "structure B",  notes: "https://drive.google.com/file/d/166MmkBuinyc4VPq2FvsnCbYsisIqjLn9/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"},
-                              {title: " phy ,bee,pps (2025 pyqs)",notes: "https://drive.google.com/file/d/1lYS4suwTlyZtNTBZ68bs0ltLabtUTJT1/view?usp=drivesdk",video: "https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j" },
+                              {title: " phy ,bee,pps,bio (2024 1st sem pyqs)",notes: "https://drive.google.com/file/d/1mrrveAvh0UxSdnR1B198MagFdLzwd52Y/view?usp=drivesdk",video: "https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j" },
         
 
         { title:"structure A",notes:" https://drive.google.com/file/d/161mCgRkweM7rRRTp686PqzwTxEA-bRzl/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"},
