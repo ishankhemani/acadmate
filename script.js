@@ -50,7 +50,7 @@ const subjectData = {
         
     ],
     "EGD": [
-        { title: "complete drawing book pdf ", video: "https://www.youtube.com/embed/zAw3FpdRlRg?si=jdjfLiCjLlvKON8A", notes: "https://drive.google.com/file/d/1itFX-s_3fDhmAUrsalRIWR1VbOjMUsdY/view?usp=drivesdk", pdf: "assets/egd_notes1.pdf" },
+        { title: "(unit1-solid) drawing book pdf ", video: "https://www.youtube.com/embed/zAw3FpdRlRg?si=jdjfLiCjLlvKON8A", notes: "https://drive.google.com/file/d/1itFX-s_3fDhmAUrsalRIWR1VbOjMUsdY/view?usp=drivesdk", pdf: "assets/egd_notes1.pdf" },
         { title: "point Projection", video: "https://www.youtube.com/embed/dbPDln9FTVA?si=wycgrZFaBqOhF3je", notes: "https://drive.google.com/file/d/1itFX-s_3fDhmAUrsalRIWR1VbOjMUsdY/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
         { title: "line Projection", video: "https://www.youtube.com/embed/C6A-zqYdb20?si=g8lhYb3zKkYuVDkU" , notes: "https://drive.google.com/file/d/1VL7ZJKWXPkVhkMRa6HoQ6Y79HBxwQoro/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
         { title: "plane", video: "https://www.youtube.com/embed/DwWlgaDEQYw?si=TCYI_mBAgz3SIHd2", notes: "https://drive.google.com/file/d/1itFX-s_3fDhmAUrsalRIWR1VbOjMUsdY/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
