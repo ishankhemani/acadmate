@@ -55,7 +55,7 @@ const subjectData = {
         { title: "line Projection", video: "https://www.youtube.com/embed/C6A-zqYdb20?si=g8lhYb3zKkYuVDkU" , notes: "https://drive.google.com/file/d/1VL7ZJKWXPkVhkMRa6HoQ6Y79HBxwQoro/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
         { title: "plane", video: "https://www.youtube.com/embed/DwWlgaDEQYw?si=TCYI_mBAgz3SIHd2", notes: "https://drive.google.com/file/d/1itFX-s_3fDhmAUrsalRIWR1VbOjMUsdY/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
         { title: "orthogonal projection", video: "https://www.youtube.com/embed/No2BAd569CA?si=2trVR2G0RtDUCYbU", notes: "https://drive.google.com/file/d/1VOdOvltF09nAX0DVvHAWptp0PdtBZ7BW/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
-        { title: "Solids", video: "https://www.youtube.com/embed/-NJ-DtjwtoA?si=8LxxGIFAmtJzAAp3" , notes: "https://drive.google.com/file/d/1VashHlaU1XUhDkKp4aZsSr5mkxmipvAM/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
+        { title: "Solids", video: "https://www.youtube.com/embed/-NJ-DtjwtoA?si=8LxxGIFAmtJzAAp3" , notes: "https://drive.google.com/file/d/1GNnn2o3Wp4PVqga-3PTyLVjcTTNsPR0g/view?usp=drivesdk", pdf: "assets/egd_notes2.pdf" },
         {title:"Isometric Projection",video:"https://www.youtube.com/embed/paDG7SvpdCQ?si=yhUsexSyFUGpv_1a",notes:"https://drive.google.com/file/d/1a553M8jOgu__j8ziKnytmMcDX-8WGdYz/view?usp=drivesdk"},
         {title:"autocad",video:"https://www.youtube.com/embed/ZcGlKaGgiXo?si=Mrzac0kEsb0LFo7e",notes:"https://drive.google.com/file/d/1bNPDaBA8OOhlF0aE4ORRceor-cIEmX-X/view?usp=drivesdk" }
     ],
