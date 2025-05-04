@@ -132,9 +132,9 @@ const subjectData = {
                                                 { title: "actual formal parameters ", video: "https://www.youtube.com/embed/yTeMHEobXx8?si=8ZIkfAGwHPAI1VIQ" ,},
                                                         { title: "employee problem", video: "https://www.youtube.com/embed/skPcyvMn1sQ?si=GKy1GqMUFTbbRFld" ,},
                                                                 { title: "factorial using recursion ", video: "https://www.youtube.com/embed/H2lBlb_ys9M?si=OrqiNMhq2hmaJxeP" },
-                                                                        { title: "question bank ", notes:"https://drive.google.com/file/d/1NV-Q6LFjCB-XCWV1Q9KC03y-CaHkanSY/view?usp=drivesdk",video:"https://www.youtube.com/embed/kgUUSjiZBPM?si=J0ElQCpa8C_tFovS"},
+                                                                        { title: "question bank(pdf given) ", notes:"https://drive.google.com/file/d/1NV-Q6LFjCB-XCWV1Q9KC03y-CaHkanSY/view?usp=drivesdk",video:"https://www.youtube.com/embed/kgUUSjiZBPM?si=J0ElQCpa8C_tFovS"},
                                                                         {title: "palindrome",video:"https://www.youtube.com/embed/WUG2rN0cG9c?si=rC-7FwenV8TMZeic" },
-                                                                        {title:"pattern problems",video :"https://www.youtube.com/embed/lsOOs5J8ycw?si=6Wfk8vnAPVv-Oahi",notes:"https://drive.google.com/file/d/1N_tJuNNdDXA3Wz2GWIExYtBnrIY7nONP/view?usp=drivesdk"},
+                                                                        {title:"pattern problems(pdf given)",video :"https://www.youtube.com/embed/lsOOs5J8ycw?si=6Wfk8vnAPVv-Oahi",notes:"https://drive.google.com/file/d/1N_tJuNNdDXA3Wz2GWIExYtBnrIY7nONP/view?usp=drivesdk"},
                                                                         {title:" simple calculator using c",video:"https://www.youtube.com/embed/1567inlTJKc?si=lCSS2SMrKE9wzA0X "}
                                                                         
     ],
