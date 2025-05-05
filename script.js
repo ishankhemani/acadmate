@@ -87,6 +87,7 @@ const subjectData = {
         {title: "Lubricants", video: "https://www.youtube.com/embed/GacwwmIl_8E?si=7THqIXsmc0kXwZWS", notes: "https://drive.google.com/file/d/15TWNrT-NKmEdEw7qqlFckXQhQKQpa2Ux/view?usp=drivesdk", pdf: "" },
         { title: "Corrosion", video: "https://www.youtube.com/embed/rg3DM9XnXEU?si=l7IKpOdSS5fXOqJQ", notes: "https://drive.google.com/file/d/1H1quZ8_XTorPvmTe2BSks5mOt3IoLvMg/view?usp=drivesdk", pdf: "" },
         {title : "Spectroscopy",video: "https://www.youtube.com/embed/RaMg5avQIO0?si=YaoPhPyKCTrduSRc ",notes:"https://drive.google.com/file/d/1Lq9Iqo1P-H49FXJuKYlovPm4kBpbvOYY/view?usp=drivesdk"},
+        {title: "advanced materials",video:"https://www.youtube.com/embed/eyOxvNTgGgs?si=M_9NgOYEqYLEbMi3",notes:"https://drive.google.com/file/d/1Gcg54-TwZL1vsSTwo-LTCKCSB_SeZ8Uq/view?usp=drivesdk" },
         {title: "water numericals", video: "https://www.youtube.com/embed/X54p9XDZ-Rs?si=NIpUFY1zr8Zws9jm", notes: "https://drive.google.com/file/d/1HGgO4ezvzeGrhIWoEEaDRGRrz629oX4X/view?usp=drivesdk", pdf: "" },
         {title: "Proximate and ultimate numericals", video: "https://www.youtube.com/embed/oc6Yg2_04jw?si=OcJ0lSlFumHuj9qV", notes: "https://drive.google.com/file/d/1OhgcGpF9zBhieETdXyqA_hWXHuqAO9YT/view?usp=drivesdk", pdf: "" },
         {title: "lime Soda", video: "https://www.youtube.com/embed/NP3a7U34vig?si=pTI72Fqtb2MIXn7F ", notes: "https://drive.google.com/file/d/1HILCK43uBYKMs4Eq40taPt1FvYTNyh7g/view?usp=drivesdk", pdf: "" },
