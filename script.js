@@ -96,9 +96,9 @@ const subjectData = {
         {title:"properties of Lubricants",video:"https://www.youtube.com/embed/yR4Lk4E6jac?si=U-ukuCRbT5lNQzUA" ,notes: "https://drive.google.com/file/d/15TWNrT-NKmEdEw7qqlFckXQhQKQpa2Ux/view?usp=drivesdk"},
         {title:"zeolite method numerical",video:"https://www.youtube.com/embed/uqAf_L0_10A?si=Jd4gWoWpzc4u9xSH "}
         
-    ],    "PCCC": [
+    ],    "basic electronics": [
 
-        { title: " Common base configuration system", video: "https://www.youtube.com/embed/NMD4KECE-7I?si=cZqZo2fg93D4kvzk" , notes: "https://drive.google.com/file/d/16N3OtQPEQStNEeh9CanzoMxPVbnKkRoL/view?usp=drivesdk", pdf: " " },
+        { title: " Complete handwritten notes , video: "https://www.youtube.com/embed/NMD4KECE-7I?si=cZqZo2fg93D4kvzk" , notes: "https://drive.google.com/file/d/1URQCZzcnmTWg_sGhmIqeggjAjmqGm8Eb/view?usp=drivesdk", pdf: " " },
         { title: "Transistors", video: "https://www.youtube.com/embed/08jcU8rb9SU?si=DOWzAxCQeBQE36ms" , notes: "https://drive.google.com/file/d/16SrpJkLzY2AdT4LZCSFIaTLkSEwb1CCe/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
         { title: "REfERENCE BOOK", video: "", notes: "https://drive.google.com/file/d/17tErd0B55Pshk15_hI1KgTaQWgcnPPTr/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" }],
     "Biology": [
@@ -266,4 +266,5 @@ if (window.location.pathname.includes("important-topics.html")) {
         });
     }
 }
+
 
