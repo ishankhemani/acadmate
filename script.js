@@ -116,7 +116,7 @@ const subjectData = {
         { title: "digestive system", video: "https://www.youtube.com/embed/24GA-NBvsG8?si=AIN-QKSGXBX1bl4d", notes: "https://drive.google.com/file/d/1FOW4JTcKvwrK-IRf_1UeF7ge8nQ7EeWY/view?usp=drivesdk", pdf: "assets/info_notes2.pdf" },
         { title: "structure of prokaryotic and eukaryotic genes", video: "https://www.youtube.com/embed/G-Ffh3SbJAo?si=I3oWzYRdWA23oE03 ",notes: "https://drive.google.com/file/d/1FPfEBblLgGk9lzE22qvo7ZuIg3B3FHXV/view?usp=drivesdk"},
         { title: " tissues", video: "https://www.youtube.com/embed/x_AGZ6-0oYk?si=sDUSAmYxqDwhokOZ ", notes: "https://drive.google.com/file/d/1G6vlBkW8nbAIBb05s-ElF9Auuijy7PJl/view?usp=drivesdk" },
-        {title:"enzyme catalysis",video:"https://www.youtube.com/embed/Mk3G1CTK-4A?si=L9hup-mPOGtNSG9L",notes: "https://drive.google.com/file/d/1G677yYbS7Q6nPU3M2IiQpIFTGp_cuKhJ/view?usp=drivesdk"},
+        {title:"enzyme catalysis",video:"https://www.youtube.com/embed/Mk3G1CTK-4A?si=L9hup-mPOGtNSG9L",notes: "https://drive.google.com/file/d/1G677yYbS7Q6nPU3M2IiQpIFTGp_cuKhJ/view?usp=drivesdk"}
         
 
     ],
@@ -266,5 +266,6 @@ if (window.location.pathname.includes("important-topics.html")) {
         });
     }
 }
+
 
 
