@@ -98,7 +98,7 @@ const subjectData = {
         
     ],    "basic electronics": [
 
-        { title: " Complete handwritten notes , video: "https://www.youtube.com/embed/NMD4KECE-7I?si=cZqZo2fg93D4kvzk" , notes: "https://drive.google.com/file/d/1URQCZzcnmTWg_sGhmIqeggjAjmqGm8Eb/view?usp=drivesdk", pdf: " " },
+        { title: " Complete handwritten notes" , video: "https://www.youtube.com/embed/NMD4KECE-7I?si=cZqZo2fg93D4kvzk" , notes: "https://drive.google.com/file/d/1URQCZzcnmTWg_sGhmIqeggjAjmqGm8Eb/view?usp=drivesdk", pdf: " " },
         { title: "Transistors", video: "https://www.youtube.com/embed/08jcU8rb9SU?si=DOWzAxCQeBQE36ms" , notes: "https://drive.google.com/file/d/16SrpJkLzY2AdT4LZCSFIaTLkSEwb1CCe/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
         { title: "REfERENCE BOOK", video: "", notes: "https://drive.google.com/file/d/17tErd0B55Pshk15_hI1KgTaQWgcnPPTr/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" }],
     "Biology": [
@@ -266,6 +266,7 @@ if (window.location.pathname.includes("important-topics.html")) {
         });
     }
 }
+
 
 
 
